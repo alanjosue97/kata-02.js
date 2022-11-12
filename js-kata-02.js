@@ -9,8 +9,8 @@ const playWithString = function(str){
     //console.log(`#${camelCase.join('')}`)
      const hastagString =  `#${camelCase.join('')}`
     
-    console.log(hastagString.length>140 ? false : hastagString)
-    
+    console.log(hastagString.length>141 ? false : hastagString)
+
 
    
 }
